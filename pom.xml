@@ -6,7 +6,7 @@
   <artifactId>prasad.devops</artifactId>
   <packaging>war</packaging>
   <version>1.0-SNAPSHOT</version>
-  <name>prasad.devops</name>
+  <name>prasad</name>
   <url>http://maven.apache.org</url>
 
   <properties>
